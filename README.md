@@ -8,7 +8,7 @@ Follow the setup instructions from mkdocs-material. Add `plantuml-markdown` to t
 
 ```yaml
 markdown_extensions:
-    - plantuml-markdown
+    - plantuml_markdown
 ```
 
 Then launch the container with:
